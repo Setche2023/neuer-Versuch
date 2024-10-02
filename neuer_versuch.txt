@@ -5,3 +5,4 @@ sdfknsf
 123
 xx j'essaie encore xx 
 yy j'espère voir marcher
+Il faut passer par la commande git synchrone pour que cela marche
